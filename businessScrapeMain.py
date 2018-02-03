@@ -56,7 +56,7 @@ YELP_INDEX = 'https://www.yelp.com'
 SEARCH_YELP = 'https://www.yelp.com/search?find_desc='
 
 ASK_BUSINESS = raw_input('\nThis program will return a'
-                         'business Address and Phone Number from Yelp!\n'
+                         ' business Address and Phone Number from Yelp!\n'
                          '\nEnter Business Name:\n')
 
 
